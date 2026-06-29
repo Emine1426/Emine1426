@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi 👋 I'm Emine Yaman
 
-<!--
-**Emine1426/Emine1426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Unity Game Developer  
+💻 C# Developer  
+🥽 Augmented Reality Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- Unity 6
+- C#
+- Vuforia
+- Blender
+- Adobe Photoshop
+- Git
+- GitHub
+
+---
+
+## 🚀 Featured Projects
+
+🌕 **Curse of the Blood Moon**
+- 2D Pixel Art Action Platformer
+- Ancient Egyptian Theme
+- Boss Battles
+- Windows PC
+
+📚 **Harika Hayvanlar AR**
+- Augmented Reality Children's Book
+- Unity + Vuforia
+
+🔍 **Spot the Difference**
+- Mobile Puzzle Game
+
+🎈 **Balloon Pop**
+- Mobile Arcade Game
+
+---
+
+## 🌐 Links
+
+🎮 itch.io  
+https://emineyaman.itch.io
+
+💼 LinkedIn  
+https://www.linkedin.com/in/emine-yaman-13801434b
+
+📧 Email  
+emineyaman1417@gmail.com
