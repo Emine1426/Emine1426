@@ -1,8 +1,39 @@
 # Hi 👋 I'm Emine Yaman
 
-🎮 Unity Game Developer  
-💻 C# Developer  
-🥽 Augmented Reality Developer
+🎮 Unity Game Developer • C# Developer • AR Developer
+
+I develop games and augmented reality applications with Unity.
+I'm passionate about creating educational experiences, mobile games and pixel-art adventures.
+
+---
+
+## 🚀 Featured Projects
+
+### 🌕 Curse of the Blood Moon
+2D pixel-art action platformer inspired by Ancient Egyptian mythology.
+
+➡️ https://github.com/Emine1426/Kanli-Ayin-Laneti
+
+---
+
+### 📚 Harika Hayvanlar AR
+Educational Augmented Reality children's book developed with Unity & Vuforia.
+
+➡️ https://github.com/Emine1426/Harika-Hayvanlar-AR
+
+---
+
+### 🔍 Spot the Difference
+Mobile puzzle game where players find differences between two images.
+
+➡️ https://github.com/Emine1426/Spot-the-Difference
+
+---
+
+### 🎈 Balloon Pop
+A casual mobile arcade game.
+
+➡️ https://github.com/Emine1426/Balloon-Pop
 
 ---
 
@@ -13,28 +44,7 @@
 - Vuforia
 - Blender
 - Adobe Photoshop
-- Git
 - GitHub
-
----
-
-## 🚀 Featured Projects
-
-🌕 **Curse of the Blood Moon**
-- 2D Pixel Art Action Platformer
-- Ancient Egyptian Theme
-- Boss Battles
-- Windows PC
-
-📚 **Harika Hayvanlar AR**
-- Augmented Reality Children's Book
-- Unity + Vuforia
-
-🔍 **Spot the Difference**
-- Mobile Puzzle Game
-
-🎈 **Balloon Pop**
-- Mobile Arcade Game
 
 ---
 
