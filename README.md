@@ -1,4 +1,5 @@
-# Hi 👋 I'm Emine Yaman
+<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1200&center=true&vCenter=true&width=650&height=70&lines=Hi+%F0%9F%91%8B+I'm+Emine+Yaman;Unity+Game+Developer;C%23+Developer;Augmented+Reality+Developer;Mobile+Game+Developer)](https://git.io/typing-svg)
 
 🎮 Unity Game Developer • C# Developer • AR Developer
 
